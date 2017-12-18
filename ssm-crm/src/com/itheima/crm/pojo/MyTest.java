@@ -22,4 +22,8 @@ public class MyTest {
 		this.id = id;
 	}
 	
+	public static void main(String[] args) {
+		System.out.println("helloword1212时代峰峻拉克丝的剑");
+	}
+	
 }
